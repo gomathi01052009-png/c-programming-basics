@@ -28,5 +28,5 @@ My goal is to become a Software Engineer with an AI specialization.
 - Hackathon projects
 
 ## Connect With Me
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_LINK)
-- GitHub: [My GitHub](YOUR_GITHUB_LINK)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/gomathi-v-949a89419?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- GitHub: [My GitHub](https://github.com/gomathi01052009-png)
